@@ -1,6 +1,6 @@
 - 👋 Hi, my name is Igor
 - 👀 I’m former music teacher
-- 🌱 I’m currently learning .Net
+- 🌱 I’m currently learning Asp.Net Core
 - 💞️ 
 - 📫
 
